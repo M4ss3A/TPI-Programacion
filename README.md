@@ -1,12 +1,8 @@
-##  Integrantes ✨ ##
-- **Masseroni Ayelen**
-- **Coceres Hernan**
+## Trabajo Realizado en la carrera Programacion ##
+
 
 ## Presentacion de Trabajo Integrador ##
 *Programacion I*
-
-## Link de video ##
-https://youtu.be/IzbuiekRkqA
 
 ## Objetivos ##
 El objetivo principal es integrar los conceptos teóricos de estructuras de datos con un desarrollo práctico que resuelva un problema común, mostrando cómo un diseño adecuado puede optimizar procesos y mejorar el rendimiento de un software.
